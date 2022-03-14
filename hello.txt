@@ -21,5 +21,8 @@ class parent{
 	public int getStatus(){
 		return this.status;
 	}
+	public void fly(){
+		System.out.println("Buy");
+	}
 
 }
