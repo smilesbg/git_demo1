@@ -12,6 +12,7 @@ class parent{
 
 	private int status;
 	private int a;
+	private int b;
 	public parent(int status){
 		this.staus = status;
 	}
