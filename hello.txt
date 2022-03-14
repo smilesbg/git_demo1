@@ -11,7 +11,7 @@ public class hello{
 class parent{
 
 	private int status;
-
+	private int a;
 	public parent(int status){
 		this.staus = status;
 	}
