@@ -8,3 +8,18 @@ public class hello{
 
 	}
 }
+class parent{
+
+	private int status;
+
+	public parent(int status){
+		this.staus = status;
+	}
+	public void setStatus(int status){
+		this.status = status;
+	}
+	public int getStatus(){
+		return this.status;
+	}
+
+}
