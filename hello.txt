@@ -1,0 +1,10 @@
+public class hello{
+	public static void main(String args[]){
+		int i = 10;
+		int j = 20;
+		int c;
+		c = i + j;
+		System.out.println("c的值为:" + c);
+
+	}
+}
