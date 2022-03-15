@@ -5,7 +5,8 @@ public class hello{
 		int c;
 		c = i + j;
 		System.out.println("c的值为:" + c);
-
+		parent p = new parent(123);
+		
 	}
 }
 class parent{
